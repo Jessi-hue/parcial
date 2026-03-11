@@ -129,6 +129,6 @@ Aunque el código funciona en condiciones normales, estos escenarios muestran si
 Dos nuevos atributos que se podrían agregar al sistema son:
 
 1. **ubicacionEstanteria**: permitiría indicar en qué estantería o sección de la biblioteca se encuentra físicamente el libro, lo que facilitaría su localización dentro de la biblioteca.
-2. **nivelDificultadLectura**: permitiría clasificar el libro según su nivel de complejidad (básico, intermedio o avanzado), lo cual ayudaría a los lectores a elegir libros adecuados para su nivel.
+2. **nivelDificultadLectura**: permitiría clasificar  el libro según su nivel de complejidad (básico, intermedio o avanzado), lo cual ayudaría a los lectores a elegir libros adecuados para su nivel.
 
 Un método adicional que se podría implementar es **recomendarLibro()**, el cual podría sugerir un libro al usuario según su nivel de lectura o preferencia de género, mejorando así la experiencia del sistema de biblioteca.
